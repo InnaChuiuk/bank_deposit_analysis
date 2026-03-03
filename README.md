@@ -21,7 +21,7 @@ Financial Health: Customers with a higher average balance are more likely to acc
 
 ## Files
 1. Original file ('bank-full') and file after Python code ('EDA') is in `\Excel`.
-2. File with Pythone code `\jupyter`.
+2. File with Pythone code `\Jupyter`.
 3. Interactive dashboards in 2 languages `\Power BI`.
 
 ![Фото Дашборду](Bank_deposit_dashboard_EN.png)
