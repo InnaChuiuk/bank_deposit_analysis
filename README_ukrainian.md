@@ -21,4 +21,4 @@
 2. Файл з Python `\jupyter`.
 3. Інтерактивний дашборд `\Power BI`.
 
-![Аналітичний дашборд Power BI](deposit_dashboard.png)
+![Фото Дашборду](Bank_deposit_dashboard_ua.png)
