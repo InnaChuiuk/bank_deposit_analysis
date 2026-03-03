@@ -20,8 +20,8 @@ Financial Health: Customers with a higher average balance are more likely to acc
 * Strategy for blue-collar and admin-workers: Introduce short-term high-yield deposits or value-added card benefits (cashback, lower transaction fees). This addresses their need for immediate financial benefits and flexibility.
 
 ## Files
-1. Original file `\Excel`.
-2. File witj Pythone code `\jupyter`.
-3. Interactive dashboard `\Power BI`.
+1. Original file ('bank-full') and file after Python code ('EDA') is in `\Excel`.
+2. File with Pythone code `\jupyter`.
+3. Interactive dashboards in 2 languages `\Power BI`.
 
 ![Фото Дашборду](Bank_deposit_dashboard_EN.png)
