@@ -23,3 +23,5 @@ Financial Health: Customers with a higher average balance are more likely to acc
 1. Original file `\Excel`.
 2. File witj Pythone code `\jupyter`.
 3. Interactive dashboard `\Power BI`.
+
+![Фото Дашборду](Bank_deposit_dashboard_en.png)
